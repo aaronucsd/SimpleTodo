@@ -36,7 +36,7 @@ Notes:
 
 Animated gif walkthrough of this demo todo list app:
 
-![Video Walkthrough](androidAppCapture1_1_dialog)
+![Video Walkthrough](androidAppCapture1_1_dialog.gif)
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
