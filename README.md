@@ -22,6 +22,7 @@ Animated gif walkthrough of this demo todo list app:
 
 
 Updated Version 1.1
+Date Feb 1, 2014
 Added: Use a DialogFragment instead of new Activity for editing items
 
 Time spent: 2.5 hours spent in total
